@@ -1,0 +1,25 @@
+
+
+.main-container{
+  display: flex;
+  justify-content: center;
+  width:480px;
+  height: 736px;
+  border: 1px solid red;
+  }
+
+
+.form{
+  display: flex;
+  flex-direction: column;
+  margin: 32px 32px 8px 32px;
+  width: 100%;
+  justify-content: start;
+  border: 1px solid darkblue;
+}
+
+.action{
+  text-align: left;
+  font-size: 24px;
+  line-height: 33px ;
+}
