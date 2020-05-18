@@ -16,6 +16,11 @@ h5 {
     font-size: 1.25rem;
 }
 
+label{
+    display: block;
+    font-size: 0.875rem;
+}
+
 
 /* 標示範圍使用 */
 .outbox {
@@ -24,4 +29,10 @@ h5 {
 
 .outbox-orange{
     outline:1px solid  darkorange;
+}
+
+.form-control{
+    background-color: #EDF4EE;
+    height: 3.125rem;
+    font-size: 1rem;
 }

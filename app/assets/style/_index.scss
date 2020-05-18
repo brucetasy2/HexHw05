@@ -1,13 +1,43 @@
-
-
-.container{
+.container {
   margin-top: 5rem;
-  width: 25%;  /* 680=1920/4*/
-   outline: 1px solid darkmagenta; 
-   height: 2000px;  /*?? */
+  width: 25%; /* 680=1920/4*/
+  outline: 1px solid darkmagenta;
+  height: 2000px; /*?? */
 }
 
-
-.rmb-2{
+.rmb-1 {
+  margin-bottom: 1rem;
+}
+.rmb-2 {
   margin-bottom: 2rem;
+}
+
+.rmb-24px{
+  margin-bottom: 24px
+}
+
+.rmr-8px{
+  margin-right: 38px;
+}
+
+.rmr-24px{
+  margin-right: 24px;
+}
+
+.box {
+  border-bottom: 1px solid #CDDDCD;;
+  width: 100%;
+}
+
+// .material-icons {
+//   color: white;
+// }
+
+.btn-info{
+  background-color: #FFFFFF;
+  color: #CDDDCD;
+}
+
+.btn-outline-light{
+  text-align: left;
 }
