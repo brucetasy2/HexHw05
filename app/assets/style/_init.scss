@@ -1,0 +1,27 @@
+
+
+h1, h2, h3, h4, h5, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+h4 {
+    display: block;
+    font-size: 1.5rem;
+}
+
+h5 {
+    display: block;
+    font-size: 1.25rem;
+}
+
+
+/* 標示範圍使用 */
+.outbox {
+    outline:1px solid black;
+}
+
+.outbox-orange{
+    outline:1px solid  darkorange;
+}
